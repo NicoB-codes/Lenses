@@ -1,0 +1,17 @@
+{
+    "SENSOR_SIZES": {
+        "1/2” (8 × 10 mm)": [10.0, 8.0],
+        "Micro 4/3 (13 × 17.3 mm)": [17.3, 13.0],
+        "Canon APS-C (14.8 × 22.2 mm)": [22.2, 14.8],
+        "Nikon DX (15.7 × 23.6 mm)": [23.6, 15.7],
+        "Plein format (24 × 36 mm)": [36.0, 24.0]
+    },
+    
+    "LENS_FOCALS": {
+        "35 mm": 35.0,
+        "60 mm": 60.0,
+        "Téléobjectif 100 mm": 100.0,
+        "Téléobjectif 200 mm": 200.0,
+        "Personnalisé...": 35.0
+    }
+}
